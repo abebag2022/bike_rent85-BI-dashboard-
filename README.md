@@ -6,4 +6,5 @@ This Repository contains SQL queries and power BI report for analyzing bike rent
 - <a href="https://github.com/abebag2022/bike_rent85-BI-dashboard-/blob/main/cost_table.csv">dataset3
   ## Dashboard
   https://github.com/abebag2022/bike_rent85-BI-dashboard-/blob/main/IMG_6778.jpeg
+  ## power BI file
   
